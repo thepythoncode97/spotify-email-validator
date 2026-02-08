@@ -10,9 +10,12 @@
 4. **No Proxy**: For checking your email leads you do not need any proxy.
 5.**Anti IP Ban Method**: This tool use Anti IP Ban method to by pass rate-limit and others issue.
 
-## Contact
+## 🤝 Get in Touch
 
-If you want to buy this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
