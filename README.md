@@ -1,21 +1,34 @@
-# Spotify Valid Email Checker
+# 🎧 Spotify Valid Email Checker
 
-![Spotify Valid Email Checker](https://raw.githubusercontent.com/thepythoncode97/Spotify-Valid-Email-Checker/refs/heads/main/Spotify_Valid_Email_Checker.png)
+![Spotify Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Spotify-Valid-Email-Checker/refs/heads/main/spotify-valid-email-checker.png)
 
-## Features
+---
 
-1. **Support Multithreading**: Faster verification with multithreading.
-2. **Fast Checking**: Quickly checks emails in your list.
-3. **Accurate Results**: Ensures precise verification.
-4. **No Proxy**: For checking your email leads you do not need any proxy.
-5.**Anti IP Ban Method**: This tool use Anti IP Ban method to by pass rate-limit and others issue.
+## 🚀 Features
+
+- 🎯 **Accurate Checking Results** — Reliable and precise validation  
+- ⚡ **Fast Performance** — Quickly process large email lists  
+- 🧵 **Multiprocessing Support** — Enhanced speed using parallel processing  
+- 🌐 **HTTP Proxy Support** — Flexible proxy integration  
+- 🌍 **Supports Any Domain** — Works across multiple email providers  
+- 📊 **Handles Large Lists** — Efficient with bulk data  
+- ♾️ **Unlimited Checking** — No limits or restrictions  
+
+---
 
 ## 🤝 Get in Touch
 
-if you want to purchase,
+If you want to purchase:
 
-- Email     : elowenreply@gmail.com
-- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
+- 📧 **Email:** elowenreply@gmail.com  
+- 💬 **Telegram:** [@thepythoncode97](https://t.me/thepythoncode97)  
 
-## Note:
-This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
+---
+
+## ⚠️ Note
+
+This tool is intended for marketers and businesses. Any misuse or illegal activity carried out using this tool is solely the responsibility of the user. The author holds no liability.
+
+---
+
+**Thank You ! 🙌**
